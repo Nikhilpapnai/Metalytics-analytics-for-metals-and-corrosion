@@ -1,7 +1,7 @@
   
 # Deep Learning for Automated Corrosion Detection
 
-## Author: Pengju Sun
+## Author: Nikhil Papnai
 
 # Abstract
 
