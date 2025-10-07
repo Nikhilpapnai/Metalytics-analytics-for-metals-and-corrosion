@@ -1,4 +1,4 @@
-# 🔬 Deep Learning and Multimodal Fusion for Corrosion Prediction
+# Deep Learning and Multimodal Fusion for Corrosion Prediction
 
 **Author:** Nikhil Papnai  
 **Domain:** AI for Materials Science & Corrosion Engineering  
