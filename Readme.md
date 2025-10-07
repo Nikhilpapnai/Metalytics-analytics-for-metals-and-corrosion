@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Abstract
+## Abstract
 
 This project enhances conventional corrosion detection into **quantitative corrosion prediction** through **multimodal data fusion** — combining **image-based deep learning** with **tabular surface descriptors**.  
 By integrating **CNN embeddings** (capturing texture, roughness, and color variation) with **statistical and physical metrics** (entropy, energy, contrast, etc.), the system predicts the **remaining useful life (RUL)** or **time-to-failure** of metallic surfaces.
@@ -14,7 +14,7 @@ This AI-driven methodology aligns with the study of **surface degradation mechan
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 ### 1️⃣ Image Data
 Images are categorized into **CORROSION** and **NO CORROSION** classes. Each image undergoes:
@@ -45,7 +45,7 @@ Tabular features stored in [`corrosion_features.csv`](https://github.com/Nikhilp
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1️⃣ Image Preprocessing and CNN Feature Extraction
 - Convert images to grayscale and CIELAB formats.  
@@ -91,7 +91,7 @@ Models are trained with:
 
 ---
 
-## 📊 Results
+## Results
 
 | Metric | Value |
 |---------|--------|
@@ -106,7 +106,7 @@ Models are trained with:
 
 ---
 
-## ⏱️ Time-to-Failure Reference
+## Time-to-Failure Reference
 
 The `time_to_failure` field corresponds to **accelerated corrosion testing duration**, expressed in **days** (or hours, depending on dataset).  
 Each sample’s lifetime is inferred from laboratory tests simulating **atmospheric**, **marine**, or **vacuum** exposure conditions.
@@ -118,7 +118,7 @@ df['time_to_failure_days'] = df['time_to_failure'] * 24  # convert hours → day
 
 ---
 
-## 🧩 Future Work
+## Future Work
 
 1. **Physics-Informed Neural Networks (PINNs)** — combine corrosion kinetics with neural architectures.
 2. **Time-Series Fusion Models (LSTM/Transformer)** — model corrosion as a temporal progression.
@@ -127,7 +127,7 @@ df['time_to_failure_days'] = df['time_to_failure'] * 24  # convert hours → day
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 corrosion-fusion/
@@ -151,7 +151,7 @@ corrosion-fusion/
 
 ---
 
-## 📈 Citation
+## Citation
 
 Papnai, Nikhil (2025).
 **Deep Learning and Multimodal Fusion for Corrosion Prediction.**
@@ -159,7 +159,7 @@ Papnai, Nikhil (2025).
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Author:** Nikhil Papnai
 **Email:** [papnainikhil@gmail.com](mailto:papnainikhil@gmail.com)
