@@ -165,6 +165,5 @@ Papnai, Nikhil (2025).
 **Email:** [papnainikhil@gmail.com](mailto:papnainikhil@gmail.com)
 **LinkedIn:** [Nikhil Papnai](https://www.linkedin.com/in/nikhil-papnai-8a276b287/)
 **Dataset:** [corrosion_features.csv](https://github.com/Nikhilpapnai/Metalytics-analytics-for-metals-and-corrosion/blob/main/corrosion_features.csv)
-**Remaining_lifetime(roughly done) Dataset:** [corrosion_ttf_dataset.csv]((https://github.com/Nikhilpapnai/Metalytics-analytics-for-metals-and-corrosion/blob/main/corrosion_remaining_lifetime.csv))
-
+**Remaining_lifetime (roughly done) Dataset:** [corrosion_ttf_dataset.csv](https://github.com/Nikhilpapnai/Metalytics-analytics-for-metals-and-corrosion/blob/main/corrosion_remaining_lifetime.csv)
 
